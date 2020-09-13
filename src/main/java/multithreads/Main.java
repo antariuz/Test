@@ -10,6 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //Testing log4j
         rootLogger.info("Тест");
         userLogger.info("Тест - юзер");
 
